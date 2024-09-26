@@ -2,7 +2,9 @@
 name = "hold-macro"
 version = "0.1.0"
 edition = "2021"
-
+description = "extended todo!() macro that can suppress unused value warnings"
+repository = "https://github.com/p2js/hold-macro"
+license = "ISC"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
